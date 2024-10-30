@@ -1,0 +1,8 @@
+flutter_native_splash:
+  color: "#ffffff" # warna background splash screen
+  image: assets/Logo.png # path ke gambar splash screen
+  android_12:
+    image: assets/Logo.png
+    color: "#ffffff"
+  ios_content_mode: center
+  fullscreen: true
